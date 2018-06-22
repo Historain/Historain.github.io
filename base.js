@@ -1,3 +1,5 @@
+<script>
+
 var marker = L.marker([54.7239839,55.9475713]).addTo(mymap) 
 .bindPopup("<strong>БГПУ им. М. Акмуллы</strong><br />Адрес: ул. Октябрьской Революции, 3А").openPopup();
 
@@ -15,3 +17,5 @@ var marker = L.marker([54.7361738,55.9820204]).addTo(mymap)
 
 var marker = L.marker([54.8172218,56.0592491]).addTo(mymap) 
 .bindPopup("<strong>УГНТУ</strong><br />Адрес: ул. ул. Космонавтов, 5/1").openPopup();
+
+</script>
