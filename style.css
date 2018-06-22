@@ -1,0 +1,33 @@
+#labelFrom {
+	background-color: white;
+	padding: 3px;
+}
+
+#labelTo {
+	background-color: white;
+	padding: 3px;	
+}
+
+#labelWhere {
+	background-color: white;
+	padding: 3px;
+}
+
+#map {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.panel {
+    position: absolute;
+    right: 0;
+    top: 0;
+    background: rgba(127, 157, 195, 0.8);
+    border-radius: 0 0 0 8px;
+    padding: 7px;
+    border: rgba(204, 229, 236, 0.8) 2.5px solid;
+    zoom: 85%;
+}
